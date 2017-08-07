@@ -1,7 +1,7 @@
 {
   "name": "Copy Stack Overflow Code Snippets",
   "short_name": "Copy Code Snippets",
-  "version": "1.0.0",
+  "version": "0.0.0.1",
   "manifest_version": 2,
   "description": "Double click code snipped on Stack Overflow to copy i to clipboard",
   "author": "Magnea Rún Vignisdóttir",

@@ -14,7 +14,7 @@ function copyToClipboard() {
   });
   $(element).tooltip('show');
 
-  //Hide tooltip
+  //Hide tooltip after 2sec
   setTimeout(function() {
     $(element).tooltip('hide');
   }, 2000);
